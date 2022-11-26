@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dipali Sarjare</h1>
 <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"/>
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Aspiring  Java Backend Development @Masai School. Graduated in Computer Engineering.</h3>
 <!-- <p align="left"><img align="left" widhth="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/></p> -->
 
 <img  align="right" width="400px" alt="Coder"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/></p><br>
