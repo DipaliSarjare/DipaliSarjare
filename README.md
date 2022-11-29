@@ -5,14 +5,14 @@
 <hr>
 <h1 align="center">Hi 👋, I'm Dipali Sarjare</h1>
 <hr>
-<h3 align="center">Aspiring  Java Backend Development @Masai School. Graduated in Computer Engineering.</h3>
+<h3 align="center">Aspiring  Java Backend Developer @Masai School. Graduated in Computer Engineering.</h3>
 <!-- <p align="left"><img align="left" widhth="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/></p> -->
 <hr>
 
 <img  align="right" width="400px" alt="Coder"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/></p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p>
 
-- 🌱 I’m currently learning **Java Backend Developer**
+- 🌱 I’m currently learning **Java Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://dipalisarjare.github.io/](https://dipalisarjare.github.io/)
 
